@@ -39,3 +39,7 @@ The example above is intentionally minimal. A few things to wire up for real use
 
 **Healthtech Appointment PDF Redaction: PDF**
 - **Healthtech Appointment PDF Redaction:** Generation draws on credit; large/complex documents cost more — watch `GET /v1/account/usage`.
+
+## Further reading
+
+- [Simple Agreement Signing: Choosing Server-Side Cryptography or a Signer Workflow](docs/simple-agreement-signing-choosing-server-side-cry-vy3tpk.md)
